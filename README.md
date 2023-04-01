@@ -1,10 +1,10 @@
 # WordCount
-The repository use MapReduce framework and Hadoop architecture to solve the simplw word count problems.
+The repository use MapReduce framework and Hadoop architecture to solve the simple word count problems.
 
-The project is written in Java and run with Gradle wrapper (gradlew).
+This project is written in Java and run with Gradle wrapper (gradlew).
 
 ## Execution
-Make sure you have the `gradlew` file in the current project folder.
+Make sure you have the `gradlew` file in the project root folder.
 
 In the proejct root folder, run the command
 ```=sh
